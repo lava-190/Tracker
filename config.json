@@ -1,0 +1,15 @@
+{
+    "bg_type": "color",
+    "bg_value": "#82df62",
+    "font_size": 18,
+    "lists_colors": {
+        "daily": "#6770da",
+        "pray": "#f150c5",
+        "الصلاة المفروضة": "#910b6e"
+    },
+    "lists_order": [
+        "pray",
+        "daily",
+        "الصلاة المفروضة"
+    ]
+}
